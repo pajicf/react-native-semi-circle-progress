@@ -1,0 +1,26 @@
+{
+  "name": "react-native-semi-circle-progress",
+  "version": "1.0.0",
+  "description": "Semi circle progress component for React native which doesn't require any extra dependencies",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pajicf/react-native-semi-circle-progress.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "semi",
+    "circle",
+    "progress"
+  ],
+  "author": "Filip Pajic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pajicf/react-native-semi-circle-progress/issues"
+  },
+  "homepage": "https://github.com/pajicf/react-native-semi-circle-progress#readme"
+}
